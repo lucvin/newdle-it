@@ -67,11 +67,22 @@
       }
     ],
     "format": "po",
+    "formatOptions": {
+      "origins": true,
+      "lineNumbers": false
+    },
     "sourceLocale": "en",
     "locales": [
+      "de",
       "en",
+      "eo",
       "es",
-      "it"
+      "fr",
+      "he",
+      "id",
+      "it",
+      "nb_NO",
+      "ta"
     ],
     "compileNamespace": "es"
   },
